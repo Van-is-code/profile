@@ -461,7 +461,7 @@ export default function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
               <Code className="text-blue-400" size={24} />
-              <span className="text-white font-bold text-xl">VanDev</span>
+              <span className="text-white font-bold text-xl">Van-is-code</span>
             </div>
             <div className="flex items-center gap-3">
               <button
